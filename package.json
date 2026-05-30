@@ -1,0 +1,23 @@
+{
+  "name": "tank-battle-online",
+  "version": "1.0.0",
+  "description": "坦克大战联机版 - 使用Node.js和WebSocket实现",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "keywords": [
+    "tank",
+    "battle",
+    "game",
+    "multiplayer",
+    "websocket",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT"
+}
